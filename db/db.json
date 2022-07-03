@@ -1,16 +1,12 @@
-{
-  "notes": [
+[
     {
-      "title": "Test Title",
-      "text": "Test text"
+        "title": "Test",
+        "text": "Test",
+        "id": "sktwi3w9l54k1ux7"
     },
     {
-      "title": "Test Title 2.0",
-      "text": "Test text 2.0"
-    },
-    {
-      "title": "Test 3.0",
-      "text": "testing 3.0"
+        "title": "test2",
+        "text": "test2",
+        "id": "sktwi3w9l54k25dq"
     }
-  ]
-}
+]
