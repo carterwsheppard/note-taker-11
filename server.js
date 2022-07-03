@@ -54,10 +54,12 @@ app.post("/api/notes", (req, res) => {
     })
 })
 
+//deal with typos in http
 app.get("*", (req, res) => {
     res.sendFile(path.join(__dirname, "./public/index.html"));
 })
 
+//listen for routes
 app.listen(PORT, () => {
     console.log(`API server now on port ${PORT}`);
 })
